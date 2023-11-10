@@ -1,4 +1,4 @@
-fuck off
+
 #include <stdlib.h>
 struct node 
 {
